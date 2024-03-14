@@ -1,1 +1,1 @@
-# Working code for linear quadtratic gaussian model
+# Working code for LQG
